@@ -1,5 +1,7 @@
 # Aviation Costing
 
+![Project Logo](https://i.imgur.com/Gn44jox.png)
+
 **Aviation Costing** is an open-source project that provides tools and data for calculating and analyzing the costs associated with aviation operations. Whether you're a student, researcher, or industry professional, this project aims to simplify the process of estimating the expenses related to aviation activities.
 
 ## Table of Contents
